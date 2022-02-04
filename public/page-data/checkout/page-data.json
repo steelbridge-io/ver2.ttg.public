@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/checkout/",
+    "result": {"pageContext":{"id":"cG9zdDoxMDM0","slug":"checkout","status":"publish","title":"Checkout","content":"<div class=\"woocommerce\"><div class=\"woocommerce-notices-wrapper\"></div></div>","template":{"templateName":"Default"}}},
+    "staticQueryHashes": []}

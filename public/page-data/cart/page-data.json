@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-page-js",
+    "path": "/cart/",
+    "result": {"pageContext":{"id":"cG9zdDoxMDMz","slug":"cart","status":"publish","title":"Cart","content":"<div class=\"woocommerce\"><div class=\"woocommerce-notices-wrapper\"></div><p class=\"cart-empty woocommerce-info\">Your cart is currently empty.</p>\t<p class=\"return-to-shop\">\n\t\t<a class=\"button wc-backward\" href=\"/shop/\">\n\t\t\tReturn to shop\t\t</a>\n\t</p>\n</div>","template":{"templateName":"Default"}}},
+    "staticQueryHashes": []}
